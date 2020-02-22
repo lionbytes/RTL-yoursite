@@ -19,7 +19,7 @@ Should work mostly for other RTL languages as well.
 - `padding:` 1 2 3 4 => `padding:` 1 4 3 2
 - For Bootstrap 4 and later: `ml` <=> `mr`
 - For Bootstrap 4 and later: `pl` <=> `pr`
-- In `font-family` properties, replace font stacks with appropriate Arabic ones (e.g. 'Amiri', 'Droid Arabic Naskh', 'Arial', etc.)
+- Replace the `font-family` font-stack values with appropriate Arabic ones (e.g. 'Amiri', 'Droid Arabic Naskh', 'Arial', etc.)
 ### HTML Code
 - `left` <=> `right`
 - `ltr` <=> `rtl`
