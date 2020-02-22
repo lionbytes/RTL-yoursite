@@ -1,6 +1,5 @@
 # Arabicize Your Site
 Set of steps to guide you through creating an Arabic version of your LTR website.
-
 Should work mostly for other RTL languages.
 
 ### Duplicate Asset Files *(Optional)*
