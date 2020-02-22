@@ -23,7 +23,7 @@ Should work mostly for other RTL languages as well.
 ### HTML Code
 - `ltr` <=> `rtl`
 - `left` <=> `right`
-- `en` <=> `ar` (e.g Search for: -en, en-, /en, en/, "en, en", en, etc.)
+- `en` <=> `ar` (e.g Look for: -en, en-, /en, en/, "en, en", en, etc.)
 - Validate HTML element attribute values: (e.g. `title`, `alt`, `src`, `href`, `placeholder`, `value`, etc.)
 - Translate English text content to Arabic.
 ### Test & Fix
