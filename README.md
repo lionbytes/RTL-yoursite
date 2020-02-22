@@ -26,7 +26,7 @@ Should work mostly for other RTL languages as well.
 - `en` <=> `ar` (e.g Search for: -en, en-, /en, en/, "en, en", en, etc.)
 - Validate HTML element attribute values: (e.g. `title`, `alt`, `src`, `href`, `placeholder`, `value`, etc.)
 - Translate English text content to Arabic.
-### Test and Fix
+### Test & Fix
 - Quality-check font sizes of headings and paragraphs.
 - Check if `font-weight` still works for all newly used Arabic font families.
 - Check misspellings.
