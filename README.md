@@ -31,8 +31,7 @@ Should work mostly for other RTL languages as well.
 - Check if `font-weight` still works for all newly used Arabic font families.
 - Check misspellings.
 - Use better fonts if necessary.
-- CSS 
-- Adjust spacing (i.e. paddings, margins, positions, etc.)
+- Adjust spacing if necessary (i.e. paddings, margins, positions, etc.)
 - Debug JavaScript plugins and scripts that stopped working because of renaming and style direction change. 
 
 ______________
