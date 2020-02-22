@@ -22,9 +22,10 @@ Should work mostly for other RTL languages as well.
 - In `font-family` properties, replace font stacks with appropriate Arabic ones (e.g. 'Amiri', 'Droid Arabic Naskh', 'Arial', etc.)
 ### HTML Code
 - `left` <=> `right`
+- `ltr` <=> `rtl`
 - `en` <=> `ar` (e.g Search for: -en, en-, /en, en/, "en, en", en, etc.)
 - Validate HTML element attribute values: (e.g. `title`, `alt`, `src`, `href`, `placeholder`, `value`, etc.)
-- Translate text content in English to Arabic.
+- Translate English text content to Arabic.
 ### Test and Fix
 - Quality-check font sizes of headings and paragraphs.
 - Check if `font-weight` still works for all newly used Arabic font families.
