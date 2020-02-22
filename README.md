@@ -43,5 +43,5 @@ Making left = right, and right = left :
 2. Then replace `right` with `left`.
 3. Finally replace `temp` with `right`.
 
-Apply to other keywords. 
+Apply these replacement steps to other keywords. 
 
