@@ -35,10 +35,10 @@ Should work mostly for other RTL languages as well.
 - Debug JavaScript plugins and scripts that stopped working because of renaming and style direction change. 
 
 ______________
-[*] Notice that the sign `<=>` goes both ways.
-[*] Making left = right, and right = left
-    1. Replace `left` with `temp`.
-    2. Then replace `right` with `left`.
-    3. Finally replace `temp` with `right`.
-Apply same concept to other keywords. 
+Notice that the sign `<=>` goes both ways.
+Making left = right, and right = left :
+1. Replace `left` with `temp`.
+2. Then replace `right` with `left`.
+3. Finally replace `temp` with `right`.
+Applicable to other keywords. 
 
