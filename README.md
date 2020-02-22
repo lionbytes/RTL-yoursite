@@ -1,4 +1,4 @@
-# Arabicize Your Site
+# Arabicize Your Site تعريب المواقع
 Set of steps to guide you through creating an Arabic version of your LTR website.
 Should work mostly for other RTL languages as well.
 
