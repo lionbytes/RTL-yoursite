@@ -11,7 +11,7 @@ Should work mostly for other RTL languages as well.
 - Replace English text in photos and other pictures with Arabic text.
 - Flip direction of asymmetric text-free decorative images from left to right and vice versa.
 ### CSS Code
-- `rtl` <=> `ltr`
+- `ltr` <=> `rtl`
 - `left` <=> `right`
 - `en` <=> `ar` (e.g Look for: -en, en-, /en, en/, "en, en", en, etc.)
 - `margin:` 1 2 3 4 => `margin:` 1 4 3 2 
