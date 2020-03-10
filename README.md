@@ -18,13 +18,13 @@ It should mostly work for other RTL languages as well.
 - `en` <=> `ar` (e.g Look for: -en, en-, /en, en/, "en, en", en, etc.)
 - `margin:` 1 2 3 4 => `margin:` 1 4 3 2 
 - `padding:` 1 2 3 4 => `padding:` 1 4 3 2
-- For Bootstrap 4 and later: `ml` <=> `mr`
-- For Bootstrap 4 and later: `pl` <=> `pr`
 - Replace the `font-family` font stack value with the appropriate Arabic ones (e.g. 'Amiri', 'Droid Arabic Naskh', 'Arial', etc.)
 - `letter-spacing: 0` – Arabic text has no letter spacing.
 ### HTML Code
 - `ltr` <=> `rtl`
 - `left` <=> `right`
+- For Bootstrap 4 and later: `ml` <=> `mr`
+- For Bootstrap 4 and later: `pl` <=> `pr`
 - `en` <=> `ar` (e.g Look for: -en, en-, /en, en/, "en, en", en, etc.)
 - Validate HTML element attribute values: (e.g. `title`, `alt`, `src`, `href`, `placeholder`, `value`, etc.)
 - Translate English text content to Arabic.
